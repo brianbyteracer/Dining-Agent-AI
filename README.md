@@ -4,7 +4,6 @@ GoodFoods is an AI-powered restaurant discovery and table-reservation demo built
 
 The chat assistant helps users find restaurants by area, cuisine, operating hours, and capacity, then creates a reservation using the selected restaurant's details.
 
-> **Current data notice:** The included restaurant catalogue contains sample Bangalore entries. Replace it with verified Dehradun restaurant data before publishing or deploying the app.
 
 ## Features
 
