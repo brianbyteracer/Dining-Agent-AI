@@ -1,4 +1,4 @@
-GoodFoods Reservation Assistant
+## GoodFoods Reservation Assistant
 
 GoodFoods is an AI-powered restaurant discovery and table-reservation demo built with Streamlit, FastAPI, and Groq function calling.
 
